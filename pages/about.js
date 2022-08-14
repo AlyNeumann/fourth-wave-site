@@ -22,7 +22,7 @@ export default function About() {
           About Fourth Wave
         </h1>
         <p className={styles.description}>
-          Fourth Wave DAO is a DeFi protocol running on the Polygon Network that helps women in need connect with people that can help.
+          Fourth Wave helps women in need access the education needed to stay safe online.
         </p>
         {/* <p className={styles.descriptionsm}>
           We are growing a network of anonymous Aunties across North America, and will be providing them with the funding they require to support women.
@@ -30,9 +30,9 @@ export default function About() {
         <p className={styles.descriptionsm}>
           We will offer education as well as services required for women to stay anonymous while using the internet.
         </p>
-        <p className={styles.descriptionsm}>
+        {/* <p className={styles.descriptionsm}>
           Our innovative governance model will be a breath of fresh air to the DeFi ecosystem.
-        </p>
+        </p> */}
         <p className={styles.descriptionsm}>
           Join us as we educate and empower women!
         </p>

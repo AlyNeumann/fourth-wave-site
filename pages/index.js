@@ -25,7 +25,7 @@ export default function Home() {
       <Nav/>
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Fourth Wave DAO
+          Welcome to Fourth Wave
         </h1>
         {/* <p className={styles.description}>
           {!state.user ? "Get started by connecting your wallet." : `Account succesfully connected`}

@@ -44,10 +44,10 @@ export default function CandidateForm() {
                         By checking this box, you are agreeing to be contacted by the Fourth Wave Team.
                     </Checkbox>
                 </GridItem>
-                <GridItem rowSpan={2} colSpan={4} bg='purple.50' >
+                {/* <GridItem rowSpan={2} colSpan={4} bg='purple.50' >
                     <label htmlFor="wallet" pointeEvents="none">User Wallet: </label>
                     <input type="text" id="wallet" name="wallet" value={state.user}/>
-                </GridItem>
+                </GridItem> */}
                 <GridItem rowSpan={4} colSpan={4} p="2"bg='purple.50' borderRadius='0 0 15px 15px'>
                 <Button type="submit">Submit</Button>
                 </GridItem>
